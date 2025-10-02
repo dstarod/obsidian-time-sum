@@ -1,0 +1,10 @@
+{
+    "id": "time-sum",
+    "name": "Time Sum",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Calculates the total time from duration patterns in a note.",
+    "author": "dstarod",
+    "authorUrl": "https://dstarod.github.io",
+    "isDesktopOnly": false
+}
